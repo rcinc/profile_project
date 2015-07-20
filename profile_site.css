@@ -1,0 +1,98 @@
+html {
+  background-color:#2c3e50;
+}
+
+.pic {
+  margin:1em 0 1em 35em;
+  width:485px;
+  height:375px;
+  left:0px;
+  right:20px;
+  margin:auto;
+  border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius:200px;
+  background: url(http://i612.photobucket.com/albums/tt205/rcinc/robs_headshot_zps8qvh1ffp.jpg);
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  -webkit-box-shadow:0 0 8px rgba(0,0,0,0.2);
+  -moz-box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+.paragraphs{
+  padding: 10px;
+  font-size: 20px;
+}
+.pic img{
+  margin:auto;
+  opacity: 0;
+  filter:alpha(opacity=0);
+}
+.section-container {
+  background-color: #fff;
+  color:#2c3e50;
+  font-size:48px;
+  width: 90%;
+  text-align: center;
+  box-shadow: 3px 3px 3px ;
+  margin: 0px auto;
+  font-family: sans-serif; cursive;
+  margin-top: 40px;
+  margin-bottom: 40px
+  padding: 20px;
+  border-radius: 10px;
+}
+.header{
+  font-size: 48px;
+  padding: 0px;
+}
+
+
+
+#nav {
+  background-color:#2c3e50;
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#nav li {
+  display: inline;
+  text-decoration none;
+  padding: 5px;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+  border: solid;
+  border-radius: 10px;
+  background-color: #2c3e50;
+}
+a.more {
+  font-size: 20px;
+  border: none;
+  border-radius: none;
+  background-color: white;
+  padding: 0px;
+}
+
+h1 {
+  font-family: segoeuib, Arial, sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  font-weight: bold;
+  font-family: sans-serif;
+  line-height: 1;
+  text-transform: ;
+  padding: 20px 0 20px 0
+}
+
+
+.copy {
+  color:#fff;
+  margin:auto;
+  text-align: center;
+  padding: 10px;
+}
